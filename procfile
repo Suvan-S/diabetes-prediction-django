@@ -1,0 +1,1 @@
+web gunicorn diabetes_prediction_django:wsgi:application --log-file -
